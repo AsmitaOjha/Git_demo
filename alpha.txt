@@ -1,1 +1,5 @@
 alpha beta gamma
+The Greek alphabet has been used to write the Greek language since the late 9th or early 8th century BC.
+The uppercase and lowercase forms of the 24 letters are:
+
+Α α, Β β, Γ γ, Δ δ, Ε ε, Ζ ζ, Η η, Θ θ, Ι ι, Κ κ, Λ λ, Μ μ, Ν ν, Ξ ξ, Ο ο, Π π, Ρ ρ, Σ σ/ς, Τ τ, Υ υ, Φ φ, Χ χ, Ψ ψ, Ω ω.
